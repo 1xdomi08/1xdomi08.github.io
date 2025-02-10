@@ -62,7 +62,7 @@
         function acceptat() {
             document.body.style.backgroundColor = "white"; // Schimbă fundalul în alb
             let img = document.getElementById("imagine");
-            img.src = "URL_POZA_TA"; // Înlocuiește cu un link către poza dorită
+            img.src = "heart-eyes-love"; 
             img.style.display = "block";
         }
     </script>
